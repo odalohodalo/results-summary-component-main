@@ -16,7 +16,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 
 
-
 ## Overview
 
 ### The challenge
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-using-react-6UMqbSbH8H
+- Live Site URL: https://results-summary-component-main-sepia-seven.vercel.app/
 
 ## My process
 
@@ -47,9 +46,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - David Odalovic
+
+
 
 
 
